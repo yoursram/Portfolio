@@ -1,0 +1,25 @@
+body{
+    border: 4px solid rgb(180, 166, 166);
+}
+
+
+h1{
+    display: flex;
+    background-color: bisque;
+    width: 70%;
+    padding: 8px;
+    border-radius: 3px;
+    justify-content: center;
+      
+}
+.h1{
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+}
+.skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
